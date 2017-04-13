@@ -29,4 +29,4 @@ working to make recording and reapply procedure faster.
 Credits
 -------
 the puppet tool (https://github.com/RakeshChakraborty/PuppetTool) was Written by [Rakesh Chakraborty]
-special thanks to my friends (https://github.com/ankmachine) [Ankit Sinha] and Ranjit. They helped me a lot with this tool script.
+special thanks to my friends (https://github.com/ankmachine) [Ankit Sinha] and (https://github.com/in-17) [Ranjit]. They helped me a lot with this tool script.
